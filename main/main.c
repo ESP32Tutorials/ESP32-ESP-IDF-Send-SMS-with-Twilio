@@ -1,4 +1,4 @@
-/*** vist us at https://esp32tutorials.com/esp32-esp-idf-send-sms-twilio/ for more information ****/
+/*** vist us at https://esp32tutorials.com/esp32-esp-idf-send-sms-twilio/ for more information ****//
 
 #include <stdio.h>
 #include <string.h>
